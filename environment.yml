@@ -1,0 +1,3 @@
+name: jane-street
+dependencies:
+  - python=3.8
